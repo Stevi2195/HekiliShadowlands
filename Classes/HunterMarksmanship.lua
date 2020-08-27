@@ -9,7 +9,7 @@ local state = Hekili.State
 
 local PTR = ns.PTR
 
-
+-- gay
 if UnitClassBase( 'player' ) == 'HUNTER' then
     local spec = Hekili:NewSpecialization( 254, true )
 
